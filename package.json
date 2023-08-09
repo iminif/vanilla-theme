@@ -1,0 +1,77 @@
+{
+  "name": "vanilla-theme",
+  "displayName": "vanilla-theme",
+  "description": "Vanilla Theme for Visual Studio Code.",
+  "version": "0.0.1",
+  "publisher": "iminif",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vanilla Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vanilla-dark.json"
+      },
+      {
+        "label": "Vanilla Coco",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vanilla-coco.json"
+      },
+      {
+        "label": "Vanilla Dark Soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vanilla-dark-soft.json"
+      },
+      {
+        "label": "Vanilla Dark Deep",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vanilla-dark-deep.json"
+      },
+      {
+        "label": "Vanilla Dark Bordered",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vanilla-dark-bordered.json"
+      },
+      {
+        "label": "Vanilla Dark Mirage",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vanilla-dark-mirage.json"
+      },
+      {
+        "label": "Vanilla Dark Mirage Bordered",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vanilla-dark-mirage-bordered.json"
+      },
+      {
+        "label": "Vanilla Darktooth",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vanilla-darktooth.json"
+      },
+      {
+        "label": "Vanilla Monokai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vanilla-monokai.json"
+      },
+      {
+        "label": "Vanilla Light",
+        "uiTheme": "vs",
+        "path": "./themes/vanilla-light.json"
+      },
+      {
+        "label": "Vanilla Light Bordered",
+        "uiTheme": "vs",
+        "path": "./themes/vanilla-light-bordered.json"
+      },
+      {
+        "label": "Vanilla Monument",
+        "uiTheme": "vs",
+        "path": "./themes/vanilla-monument.json"
+      }
+    ]
+  }
+}
